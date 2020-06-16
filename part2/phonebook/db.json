@@ -1,24 +1,34 @@
 {
-    "persons":[
-      { 
-        "name": "Arto Hellas", 
-        "number": "040-123456",
-        "id": 1
-      },
-      { 
-        "name": "Ada Lovelace", 
-        "number": "39-44-5323523",
-        "id": 2
-      },
-      { 
-        "name": "Dan Abramov", 
-        "number": "12-43-234345",
-        "id": 3
-      },
-      { 
-        "name": "Mary Poppendieck", 
-        "number": "39-23-6423122",
-        "id": 4
-      }
-    ]
-  }
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck ",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Thu Minh",
+      "number": "096 490 90 32",
+      "id": 5
+    },
+    {
+      "name": "Huy Hoang",
+      "number": "0333760096",
+      "id": 6
+    }
+  ]
+}
